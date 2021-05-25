@@ -1,15 +1,31 @@
 # BEAMS Sample Processing Guide
-Here you will learn all things _Processing_ from Sample Intake through Sample Work-Up
+Here you will learn all things _Sample Processing_
 
-Step-by-Step:
+### Step-by-Step with Platforms:
 
-```
+#### Section 1. Airtable
+
 1. Sample Intake 
 2. Sample Storage
 3. Sample Processing
 4. Sample Return
-```
-### Sample Intake
+
+#### Section 2. OrcaScan
+
+1. Scan in sample
+2. Log-in and Log-out samples 
+3. Fill out requirements
+4. Use with Experiments 
+
+#### Section 3. Benchling 
+
+1. Projects
+2. Experiment Specific
+3. Protocol Tutorial 
+4. Updating Airtable
+
+
+
 
 [Link](url) and ![Image](src)
 ```
